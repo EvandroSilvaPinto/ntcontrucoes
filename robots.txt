@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+
+Sitemap: https://www.ntconstrucoes.com.br/sitemap.xml
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
