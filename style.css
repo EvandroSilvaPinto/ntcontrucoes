@@ -117,7 +117,7 @@ section {
 
 .services h2,
 .gallery h2,
-.about h2,
+.stats h2,
 .cta h2 {
     text-align: center;
     margin-bottom: 48px
@@ -168,7 +168,7 @@ section {
     transform: scale(1.05)
 }
 
-.about p {
+.stats p {
     max-width: 800px;
     margin: auto;
     text-align: center;
@@ -176,17 +176,17 @@ section {
     color: #cbd5f5
 }
 
-.stats {
+.about {
     background: #020617
 }
 
-.stats strong {
+.about strong {
     font-size: 2.5rem;
     color: #fbbf24;
     display: block
 }
 
-.stats span {
+.about span {
     color: #9ca3af
 }
 
