@@ -111,6 +111,9 @@ section {
 .maps {
     padding: inherit
 }
+.logo img {
+    max-width: 100%;
+}
 
 .services h2,
 .gallery h2,
