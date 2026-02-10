@@ -198,8 +198,9 @@ section {
 
 footer {
     text-align: center;
-    padding: 32px;
-    background: #020617
+    background: #020617;
+    line-height: 0.6;
+    padding: 10px;
 }
 
 @media(max-width:768px) {
